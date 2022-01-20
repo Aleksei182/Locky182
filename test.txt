@@ -1,2 +1,6 @@
 Hello
 Don't worry
+1234
+A new line
+I want a new line
+
